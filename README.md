@@ -1,7 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-### Actual Repo
+## Actual Repo
+
+### React.js
 - https://github.com/anton-sergeenkov/React-StarWars
-- https://github.com/anton-sergeenkov/JavaScript-Wiki
+
+### Vue.js
 - https://github.com/anton-sergeenkov/Vue-Uikit
+
+### JavaScript
+- https://github.com/anton-sergeenkov/JavaScript-Wiki
 - https://github.com/anton-sergeenkov/JavaScript-VanillaRouter
