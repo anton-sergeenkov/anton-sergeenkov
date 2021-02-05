@@ -15,4 +15,4 @@
 
 <!-- <img src="https://github.com/anton-sergeenkov/anton-sergeenkov/blob/main/assets/img.jpg"> -->
 
-<img src="./assets/img.jpg">
+<img src="./assets/img.jpg" width="100px" />
