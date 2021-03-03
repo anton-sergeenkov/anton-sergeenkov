@@ -1,5 +1,3 @@
-👋
-
 # Actual Repo
 
 ## React.js
