@@ -1,4 +1,4 @@
-# 🔥 Actual Repo
+# 🔰 Actual Repo
 
 ## React.js
 - https://github.com/dev-pandaren/react-star-wars
@@ -16,7 +16,7 @@
 
 ---
 
-# 🔥 Projects
+# 🔰 Projects
 
 ## Main
 - https://dev-pandaren.github.io `DevPandaren`
