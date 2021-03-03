@@ -24,7 +24,6 @@
 - https://dev-commit.github.io `Справочник`
 - https://it-school58.github.io `Школа программирования`
 - https://vk.com/penza_web `Веб-мастерская Panda`
-- https://gist.github.com/anton-sergeenkov/ac50a1f6fe9b4b2faeccda5bb4f3099e `Материал для ассессмента`
 
 ## Links
 - https://gist.github.com/anton-sergeenkov/ac50a1f6fe9b4b2faeccda5bb4f3099e `Материал для ассессмента`
