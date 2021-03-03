@@ -34,4 +34,3 @@
 # 🔰 Portfolio
 - https://penza.hh.ru/applicant/resumes/view?resume=4f49e957ff05faa54c0039ed1f42525a674d33 `CV: Head Hunter`
 - https://docs.google.com/document/d/1bFV29u7COEo9mzoAMLKWbKo87WfZn4VpkRHE3SQ25FA `CV`
-- 
