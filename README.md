@@ -1,12 +1,12 @@
 # 🔰 Actual Repo
 
-## React.js
+## <img src="./assets/logo-react.jpg" width="50px" align="left" /> React.js
 - https://github.com/dev-pandaren/react-star-wars
 
-## Vue.js
+## <img src="./assets/logo-vue.png" width="50px" align="left" /> Vue.js
 - https://github.com/anton-sergeenkov/Vue-Uikit
 
-## <img src="./assets/console.jpg" width="50px" align="left" /> JavaScript
+## <img src="./assets/logo-js.jpg" width="50px" align="left" /> JavaScript
 - https://github.com/anton-sergeenkov/JavaScript-Wiki
 - https://github.com/anton-sergeenkov/JavaScript-VanillaRouter
 - https://github.com/dev-pandaren/js-modules-comics
