@@ -1,6 +1,6 @@
 # 🔰 Actual Repo
 
-## <img src="./assets/logo-react.jpg" width="25px" align="left" /> React.js
+## <img src="./assets/logo-react.png" width="25px" align="left" /> React.js
 - https://github.com/dev-pandaren/react-star-wars
 
 ## <img src="./assets/logo-vue.png" width="25px" align="left" /> Vue.js
