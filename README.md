@@ -1,10 +1,10 @@
 ## ⚆ Actual Repo
 - https://github.com/dev-pandaren/react-star-wars `React.js`
 - https://github.com/anton-sergeenkov/Vue-Uikit `Vue.js`
-- https://github.com/anton-sergeenkov/JavaScript-Wiki `JavaScript Vanilla`
-- https://github.com/anton-sergeenkov/JavaScript-VanillaRouter `JavaScript Vanilla`
-- https://github.com/dev-pandaren/js-modules-comics `JavaScript Vanilla`
-- https://github.com/dev-pandaren/js-guitar-shop `JavaScript Vanilla`
+- https://github.com/anton-sergeenkov/JavaScript-Wiki `JavaScript`
+- https://github.com/anton-sergeenkov/JavaScript-VanillaRouter `JavaScript`
+- https://github.com/dev-pandaren/js-modules-comics `JavaScript`
+- https://github.com/dev-pandaren/js-guitar-shop `JavaScript`
 
 
 ---
