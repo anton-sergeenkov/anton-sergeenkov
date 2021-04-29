@@ -5,7 +5,7 @@
 
 ### <img src="./assets/logo-vue.png" width="20px" align="left" /> Vue.js
 - https://github.com/anton-sergeenkov/Vue-Uikit
-- https://github.com/it-school58/webcourses
+- https://dev-pandaren.github.io/training/
 
 ### <img src="./assets/logo-js.png" width="20px" align="left" /> JavaScript
 - https://github.com/anton-sergeenkov/JavaScript-Wiki
