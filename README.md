@@ -5,7 +5,6 @@
 
 ### <img src="./assets/logo-vue.png" width="20px" align="left" /> Vue.js
 - https://github.com/anton-sergeenkov/Vue-Uikit
-- https://dev-pandaren.github.io/training/
 
 ### <img src="./assets/logo-js.png" width="20px" align="left" /> JavaScript
 - https://github.com/anton-sergeenkov/JavaScript-Wiki
@@ -22,8 +21,9 @@
 ### Main
 - https://dev-pandaren.github.io `DevPandaren`
 - https://anton-sergeenkov.github.io `Портфолио`
+- https://dev-pandaren.github.io/training/ `Методичка`
 - https://dev-commit.github.io `Справочник`
-- https://it-school58.github.io `Школа программирования`
+- https://it-school58.github.io `Школа веб-разработки`
 - https://vk.com/penza_web `Веб-мастерская Panda`
 
 ### Links
