@@ -1,4 +1,4 @@
-## ⚆ Actual Repo
+## 🔰 Actual Repo
 - https://github.com/dev-pandaren/react-star-wars `React.js`
 - https://github.com/anton-sergeenkov/Vue-Uikit `Vue.js`
 - https://github.com/anton-sergeenkov/JavaScript-Wiki `JavaScript`
@@ -6,10 +6,9 @@
 - https://github.com/dev-pandaren/js-modules-comics `JavaScript`
 - https://github.com/dev-pandaren/js-guitar-shop `JavaScript`
 
-
 ---
 
-## ⚆ Projects
+## 🔰 Projects
 
 ### Main
 - https://dev-pandaren.github.io `DevPandaren`
@@ -25,16 +24,14 @@
 
 ---
 
-## ⚆ Demo Projects
+## 🔰 Demo Projects
 - https://www.npmjs.com/~anton-sergeenkov `NPM`
 - https://codepen.io/anton-sergeenkov `CodePen`
 - https://codesandbox.io/u/anton-sergeenkov `CodeSandbox`
 
-
-
 ---
 
-## ⚆ Portfolio
+## 🔰 Portfolio
 - https://penza.hh.ru/applicant/resumes/view?resume=4f49e957ff05faa54c0039ed1f42525a674d33 `CV: Head Hunter`
 - https://docs.google.com/document/d/1bFV29u7COEo9mzoAMLKWbKo87WfZn4VpkRHE3SQ25FA `CV`
 
