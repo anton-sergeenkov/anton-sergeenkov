@@ -25,9 +25,9 @@
 ---
 
 ## 🔰 Demo Projects
-- https://www.npmjs.com/~anton-sergeenkov `NPM`
 - https://codepen.io/anton-sergeenkov `CodePen`
 - https://codesandbox.io/u/anton-sergeenkov `CodeSandbox`
+- https://www.npmjs.com/~anton-sergeenkov `NPM`
 
 ---
 
