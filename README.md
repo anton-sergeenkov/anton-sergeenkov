@@ -38,7 +38,7 @@
 ---
 
 ## 🔰 Social
-- t.me/anton_sergeenkov `Telegram`
+- https://t.me/anton_sergeenkov `Telegram`
 - https://vk.com/warnes `ВКонтакте`
 - https://www.instagram.com/anton.sergeenkov/ `Instagram`
 
