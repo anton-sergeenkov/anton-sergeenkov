@@ -42,6 +42,7 @@
 - https://t.me/anton_sergeenkov `Telegram`
 - https://vk.com/anton.sergeenkov `ВКонтакте`
 - https://www.instagram.com/anton.sergeenkov `Instagram`
+- sergeenkov.anton `Skype`
 
 <!--
 <img src="./assets/logo-react.js.png" width="20px" align="left" /> React.js
