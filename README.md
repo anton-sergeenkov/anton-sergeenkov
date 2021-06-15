@@ -1,7 +1,6 @@
 ## 🔰 Info
 - Frontend Developer
 - Mentor
-- Teacher at the school of programming
 - Freelancer
 
 ---
