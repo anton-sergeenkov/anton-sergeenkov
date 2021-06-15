@@ -27,8 +27,8 @@
 - https://vk.com/penza_web `Веб-мастерская Panda`
 
 ### Links
+- https://gist.github.com/anton-sergeenkov/9ec8f95a87ac792646384ec9673fe46c `Список тем для ассессмента`
 - https://gist.github.com/anton-sergeenkov/cd37dcfd0e8626f4e88b53da96233b8a `Все репозитории`
-- https://gist.github.com/anton-sergeenkov/ac50a1f6fe9b4b2faeccda5bb4f3099e `Материал для ассессмента`
 
 ---
 
