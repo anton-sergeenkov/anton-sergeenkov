@@ -1,3 +1,11 @@
+## 🔰 Info
+- Frontend Developer
+- Mentor
+- Teacher at the school of programming
+- Freelancer
+
+---
+
 ## 🔰 Actual Repo
 - https://github.com/dev-pandaren/react-star-wars `React.js`
 - https://github.com/anton-sergeenkov/Vue-Uikit `Vue.js`
