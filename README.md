@@ -1,7 +1,7 @@
 ## 🔰 Info
-- 🔥 Frontend Developer
-- 🔥 Mentor
-- 🔥 Freelancer
+🔥 Frontend Developer  
+🔥 Mentor  
+🔥 Freelancer  
 
 ---
 
