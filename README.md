@@ -5,6 +5,29 @@
 
 ---
 
+## Stack
+
+### Верстка
+> `HTML5` `CSS3` `Bootstrap` Flexbox, CSS Grid, SVG, CSS Custom Properties, Sass, PostCSS, CSS-in-JS, CSS Modules
+
+Frontend: TypeScript, JavaScript, ES5, ES6, Flow, Ajax, Axios, Canvas, jQuery
+
+Фреймворк Vue.js: Vue.js, Vuex, Vue Router, Vue CLI 3, Vuetify.js
+
+Фреймворк React.js: React.js, React Hooks, Redux, React Router, PropTypes, Formik, Material-UI, Storybook
+
+Redux: react-redux, reselect, redux-thunk
+
+Тестирование: Jest, Enzyme, Cypress
+
+Технологии: Webpack, Babel, Gulp, NPM, Yarn, Git, GitHub, GitLab, Bitbucket, Jira, Jenkins
+
+Базы данных: MySQL, SQL
+
+Методологии: Agile, Scrum, Gitflow
+
+---
+
 ## 🔰 Actual Repo
 - https://github.com/dev-pandaren/react-star-wars `React.js`
 - https://github.com/anton-sergeenkov/Vue-Uikit `Vue.js`
