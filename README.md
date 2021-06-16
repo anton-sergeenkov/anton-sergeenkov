@@ -28,22 +28,22 @@
 - `React Router`
 - `Formik` `Material-UI` `Storybook` `PropTypes`
 
-### Тестирование
+### 🥥 Тестирование
 - `Jest` `Enzyme`
 - `Cypress`
 
-### Технологии
+### 🥥 Технологии
 - `Webpack`, `Babel`, `Gulp`
 - `NPM`, `Yarn`
 - `Git`, `GitHub`, `GitLab`, `Bitbucket`
 - `Jira`
 - `Jenkins`
 
-### Базы данных
+### 🥥 Базы данных
 - `MySQL`
 - `SQL`
 
-### Методологии
+### 🥥 Методологии
 - `Agile` `Scrum`
 - `Gitflow`
 
