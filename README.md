@@ -10,8 +10,8 @@
 ### Layout
 - `HTML5` `CSS3`
 - `Flexbox` `CSS Grid`
-- `Bootstrap`
-- `SVG` `CSS Custom Properties` `Sass` `PostCSS` `CSS-in-JS` `CSS Modules`
+- `Bootstrap` `Sass` `PostCSS` `CSS-in-JS` `CSS Modules`
+- `SVG` `CSS Custom Properties` 
 
 Frontend: TypeScript, JavaScript, ES5, ES6, Flow, Ajax, Axios, Canvas, jQuery
 
