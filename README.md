@@ -7,8 +7,11 @@
 
 ## Stack
 
-### Верстка
-> `HTML5` `CSS3` `Bootstrap` Flexbox, CSS Grid, SVG, CSS Custom Properties, Sass, PostCSS, CSS-in-JS, CSS Modules
+### Layout
+- `HTML5` `CSS3`
+- `Flexbox` `CSS Grid`
+- `Bootstrap`
+- `SVG` `CSS Custom Properties` `Sass` `PostCSS` `CSS-in-JS` `CSS Modules`
 
 Frontend: TypeScript, JavaScript, ES5, ES6, Flow, Ajax, Axios, Canvas, jQuery
 
