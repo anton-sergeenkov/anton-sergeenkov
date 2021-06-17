@@ -18,32 +18,32 @@
 - `JavaScript` `ES5` `ES6+`
 - `Ajax` `Axios` `Canvas` `jQuery`
 
-### 🥥 Фреймворк Vue.js
+### 🥥 Framework `Vue.js`
 - `Vue.js` `Vuex` `Vue Router`
 - `Vue CLI 3` `Vuetify.js`
 
-### 🥥 Фреймворк React.js
+### 🥥 Framework `React.js`
 - `React.js` `React Hooks`
 - `Redux` `react-redux` `reselect` `redux-thunk`
 - `React Router`
 - `Formik` `Material-UI` `Storybook` `PropTypes`
 
-### 🥥 Тестирование
+### 🥥 Testing
 - `Jest` `Enzyme`
 - `Cypress`
 
-### 🥥 Технологии
+### 🥥 Technologies
 - `Webpack` `Babel` `Gulp`
 - `NPM` `Yarn`
 - `Git` `GitHub` `GitLab` `Bitbucket`
 - `Jira`
 - `Jenkins`
 
-### 🥥 Базы данных
+### 🥥 Database
 - `MySQL`
 - `SQL`
 
-### 🥥 Методологии
+### 🥥 Methodology
 - `Agile` `Scrum`
 - `Gitflow`
 
