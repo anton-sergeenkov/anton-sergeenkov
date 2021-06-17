@@ -18,11 +18,11 @@
 - `JavaScript` `ES5` `ES6+`
 - `Ajax` `Axios` `Canvas` `jQuery`
 
-### 🥥 Framework `Vue.js`
+### 🥥 Framework Vue.js
 - `Vue.js` `Vuex` `Vue Router`
 - `Vue CLI 3` `Vuetify.js`
 
-### 🥥 Framework `React.js`
+### 🥥 Framework React.js
 - `React.js` `React Hooks`
 - `Redux` `react-redux` `reselect` `redux-thunk`
 - `React Router`
