@@ -15,8 +15,10 @@
 
 ### 🥥 Frontend
 - `TypeScript` `Flow`
-- `JavaScript` `ES5` `ES6+`
-- `Ajax` `Axios` `Canvas` `jQuery`
+- `JavaScript` `ES5` `ES6+` `Canvas`
+- `Webpack` `Babel` `Gulp`
+- `NPM` `Yarn`
+- `Axios` `jQuery`
 
 ### 🥥 Framework Vue.js
 - `Vue.js` `Vuex` `Vue Router`
@@ -33,8 +35,6 @@
 - `Cypress`
 
 ### 🥥 Technologies
-- `Webpack` `Babel` `Gulp`
-- `NPM` `Yarn`
 - `Git` `GitHub` `GitLab` `Bitbucket`
 - `Jira`
 - `Jenkins`
