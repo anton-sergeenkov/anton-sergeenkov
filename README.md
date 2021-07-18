@@ -22,6 +22,7 @@
 
 ### 🥥 Framework Vue.js
 - `Vue.js` `Vuex` `Vue Router`
+- `VuePress`
 - `Vue CLI 3` `Vuetify.js`
 
 ### 🥥 Framework React.js
