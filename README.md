@@ -95,6 +95,7 @@
 - https://vk.com/anton.sergeenkov `ВКонтакте`
 - https://www.instagram.com/anton.sergeenkov `Instagram`
 - sergeenkov.anton `Skype`
+- https://habr.com/ru/users/anton-sergeenkov/posts/ `Хабр Статьи`
 - https://career.habr.com/antoxa-sergeenkov `Хабр Карьера`
 
 <!--
