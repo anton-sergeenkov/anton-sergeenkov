@@ -65,7 +65,7 @@
 ### Main
 - https://dev-pandaren.github.io `DevPandaren`
 - https://anton-sergeenkov.github.io `Портфолио`
-- https://dev-pandaren.github.io/training/ `Методичка`
+- https://dev-pandaren.github.io/training `Методичка`
 - https://dev-commit.github.io `Справочник`
 - https://it-school58.github.io `Школа веб-разработки`
 - https://vk.com/penza_web `Веб-мастерская Panda`
