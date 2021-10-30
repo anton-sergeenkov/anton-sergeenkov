@@ -1,7 +1,7 @@
 ## 🔰 Info
 - 🔥 Frontend Developer
 - 🔥 Mentor
-- 🤙 Snowboarder / Longborder / Roller
+- 🍦 Snowboarder / Longborder / Roller
 
 ---
 
