@@ -70,10 +70,6 @@
 - https://it-school58.github.io `Школа веб-разработки`
 - https://vk.com/penza_web `Веб-мастерская Panda`
 
-### Links
-- https://gist.github.com/anton-sergeenkov/9ec8f95a87ac792646384ec9673fe46c `Список тем для ассесмента`
-- https://gist.github.com/anton-sergeenkov/cd37dcfd0e8626f4e88b53da96233b8a `Все репозитории`
-
 ---
 
 ## 🔰 Demo Projects
@@ -98,6 +94,3 @@
 - https://habr.com/ru/users/anton-sergeenkov/posts/ `Хабр Статьи`
 - https://career.habr.com/antoxa-sergeenkov `Хабр Карьера`
 
-<!--
-<img src="./assets/logo-react.js.png" width="20px" align="left" /> React.js
--->
