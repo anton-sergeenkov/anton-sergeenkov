@@ -10,7 +10,7 @@
 - https://t.me/anton_sergeenkov `Telegram`
 - https://vk.com/anton.sergeenkov `ВКонтакте`
 - https://www.instagram.com/anton.sergeenkov `Instagram`
-- https://join.skype.com/invite/hZmBtAZQ0EXY `Skype (sergeenkov.anton)`
+- https://join.skype.com/invite/hZmBtAZQ0EXY `Skype: sergeenkov.anton`
 
 ---
 
