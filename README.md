@@ -85,12 +85,12 @@
 
 ---
 
-## 🔰 Social
+## 🔰 Contacts
 - https://github.com/anton-sergeenkov `GitHub`
 - https://t.me/anton_sergeenkov `Telegram`
 - https://vk.com/anton.sergeenkov `ВКонтакте`
 - https://www.instagram.com/anton.sergeenkov `Instagram`
-- sergeenkov.anton `Skype`
+- https://join.skype.com/invite/hZmBtAZQ0EXY `Skype (sergeenkov.anton)`
 - https://habr.com/ru/users/anton-sergeenkov/posts/ `Хабр Статьи`
 - https://career.habr.com/antoxa-sergeenkov `Хабр Карьера`
 
