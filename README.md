@@ -51,6 +51,10 @@
 - `VuePress`
 - `Vue CLI 3` `Vuetify.js`
 
+### 🥥 Backend
+- `Node.js`
+- `MySQL` `SQL`
+
 ### 🥥 Testing
 - `Jest` `Enzyme`
 - `Cypress`
@@ -59,10 +63,6 @@
 - `Git` `GitHub` `GitLab` `Bitbucket`
 - `Jira`
 - `Jenkins`
-
-### 🥥 Backend
-- `Node.js`
-- `MySQL` `SQL`
 
 ### 🥥 Methodology
 - `Agile` `Scrum`
