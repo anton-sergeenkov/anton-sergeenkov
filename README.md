@@ -64,6 +64,12 @@
 - `Agile` `Scrum`
 - `Gitflow`
 
+### 🥥 Other (starting knowledge)
+- OpenGL, Ogre3D
+- PHP, Python, C++, Java, C#, Delphi
+- Firebird
+- WordPress
+
 ---
 
 ## 🔰 Actual Repo
