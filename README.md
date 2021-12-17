@@ -1,6 +1,3 @@
-
-<script src="https://gist.github.com/anton-sergeenkov/2deec214e8c071a80d14c1c4b3fe81dd.js"></script>
-
 ## 🔰 Info
 - 🔥 Frontend Developer
 - 🔥 Mentor
