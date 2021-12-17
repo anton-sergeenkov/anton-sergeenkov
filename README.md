@@ -83,9 +83,9 @@
 - https://dev-pandaren.github.io/training `Методичка по веб-разработке`
 - https://dev-commit.github.io `Справочник по веб-разработке`
 - https://it-school58.github.io `Школа веб-разработки`
-- https://habr.com/ru/users/anton-sergeenkov/posts/ `Хабр Статьи`
 
 ### Common
+- https://habr.com/ru/users/anton-sergeenkov/posts/ `Хабр Статьи`
 - https://anton-sergeenkov.github.io `Портфолио`
 - https://vk.com/penza_web `Веб-мастерская Panda`
 
