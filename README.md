@@ -35,17 +35,21 @@
 - `Webpack` `Babel` `Gulp`
 - `NPM` `Yarn`
 - `Axios` `jQuery`
+- `ramda` `lodash`
+
+### 🥥 Framework React.js
+- `React.js` `React Hooks`
+- `Next.js`
+- `redux` `react-redux` `reselect` `redux-thunk`
+- `react-router`
+- `formik` `react-final-form` `yup`
+- `react-query`
+- `Material-UI` `Storybook` `PropTypes`
 
 ### 🥥 Framework Vue.js
 - `Vue.js` `Vuex` `Vue Router`
 - `VuePress`
 - `Vue CLI 3` `Vuetify.js`
-
-### 🥥 Framework React.js
-- `React.js` `React Hooks`
-- `Redux` `react-redux` `reselect` `redux-thunk`
-- `React Router`
-- `Formik` `Material-UI` `Storybook` `PropTypes`
 
 ### 🥥 Testing
 - `Jest` `Enzyme`
@@ -56,19 +60,19 @@
 - `Jira`
 - `Jenkins`
 
-### 🥥 Database
-- `MySQL`
-- `SQL`
+### 🥥 Backend
+- `Node.js`
+- `MySQL` `SQL`
 
 ### 🥥 Methodology
 - `Agile` `Scrum`
 - `Gitflow`
 
 ### 🥥 Other (starting knowledge)
-- OpenGL, Ogre3D
-- PHP, Python, C++, Java, C#, Delphi
-- Firebird
-- WordPress
+- `OpenGL` `Ogre3D`
+- `PHP` `Python` `C++` `Java` `C#` `Delphi`
+- `Firebird`
+- `WordPress`
 
 ---
 
