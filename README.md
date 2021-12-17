@@ -8,9 +8,9 @@
 ## 🔰 Contacts
 - https://github.com/anton-sergeenkov `GitHub`
 - https://t.me/anton_sergeenkov `Telegram`
+- https://join.skype.com/invite/hZmBtAZQ0EXY `Skype (sergeenkov.anton)`
 - https://vk.com/anton.sergeenkov `ВКонтакте`
 - https://www.instagram.com/anton.sergeenkov `Instagram`
-- https://join.skype.com/invite/hZmBtAZQ0EXY `Skype (sergeenkov.anton)`
 
 ---
 
