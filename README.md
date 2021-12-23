@@ -22,57 +22,7 @@
 ---
 
 ## 🔰 Stack
-
-### 🥥 Layout
-- `HTML5` `CSS3`
-- `Flexbox` `CSS Grid`
-- `Bootstrap` `Sass` `PostCSS` `CSS-in-JS` `CSS Modules`
-- `SVG` `CSS Custom Properties` 
-
-### 🥥 Frontend
-- `TypeScript` `Flow`
-- `JavaScript` `ES5` `ES6+` `Canvas`
-- `Webpack` `Babel` `Gulp`
-- `NPM` `Yarn`
-- `Axios` `jQuery`
-- `ramda` `lodash`
-
-### 🥥 Framework React.js
-- `React.js` `React Hooks`
-- `Next.js`
-- `redux` `react-redux` `reselect` `redux-thunk`
-- `react-router`
-- `formik` `react-final-form` `yup`
-- `react-query`
-- `Material-UI` `Storybook` `PropTypes`
-
-### 🥥 Framework Vue.js
-- `Vue.js` `Vuex` `Vue Router`
-- `VuePress`
-- `Vue CLI 3` `Vuetify.js`
-
-### 🥥 Backend
-- `Node.js`
-- `MySQL` `SQL`
-
-### 🥥 Testing
-- `Jest` `Enzyme`
-- `Cypress`
-
-### 🥥 Technologies
-- `Git` `GitHub` `GitLab` `Bitbucket`
-- `Jira`
-- `Jenkins`
-
-### 🥥 Methodology
-- `Agile` `Scrum`
-- `Gitflow`
-
-### 🥥 Other (starting knowledge)
-- `OpenGL` `Ogre3D`
-- `PHP` `Python` `C++` `Java` `C#` `Delphi`
-- `Firebird`
-- `WordPress`
+- [https://anton-sergeenkov.github.io/stack](https://anton-sergeenkov.github.io/stack)
 
 ---
 
