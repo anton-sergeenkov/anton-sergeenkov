@@ -7,6 +7,7 @@
 
 ## 🔰 Contacts
 - https://github.com/anton-sergeenkov `GitHub`
+- https://www.linkedin.com/in/sergeenkov-anton `LinkedIn`
 - https://t.me/anton_sergeenkov `Telegram`
 - https://join.skype.com/invite/hZmBtAZQ0EXY `Skype (sergeenkov.anton)`
 - https://vk.com/anton.sergeenkov `ВКонтакте`
