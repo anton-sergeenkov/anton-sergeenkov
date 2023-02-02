@@ -24,7 +24,7 @@
 ---
 
 ## 🔰 Stack
-- [https://anton-sergeenkov.github.io/stack](https://anton-sergeenkov.github.io/stack)
+- [https://anton-sergeenkov.github.io/stack](https://anton-sergeenkov.github.io/stack) `All Technologies`
 
 ---
 
