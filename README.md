@@ -11,7 +11,7 @@
 - https://anton-sergeenkov.github.io/stack `Technologies Stack`
 - https://docs.google.com/document/d/1bFV29u7COEo9mzoAMLKWbKo87WfZn4VpkRHE3SQ25FA `CV`
 - https://letscode-dev.github.io/ `School of programming Let's Code`
-- https://habr.com/ru/users/anton-sergeenkov/posts/ `Habr Articles`
+- https://habr.com/ru/users/anton-sergeenkov/posts/ `Habr Publications`
 
 ---
 
