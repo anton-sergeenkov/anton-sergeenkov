@@ -5,26 +5,28 @@
 
 ---
 
+## ⭐️ Main
+- https://anton-sergeenkov.github.io/ `Portfolio`
+- https://anton-sergeenkov.github.io/contacts `All Contacts
+- https://anton-sergeenkov.github.io/stack `Technologies Stack`
+
+---
+
 ## 🔰 Contacts
-- https://anton-sergeenkov.github.io/contacts `All Contacts`
+`
 - https://github.com/anton-sergeenkov `GitHub`
 - https://www.linkedin.com/in/sergeenkov-anton `LinkedIn`
 - https://t.me/anton_sergeenkov `Telegram`
 - https://join.skype.com/invite/hZmBtAZQ0EXY `Skype (sergeenkov.anton)`
-- https://vk.com/anton.sergeenkov `ВКонтакте`
+- https://vk.com/anton.sergeenkov `VKontakte`
 - https://www.instagram.com/anton.sergeenkov `Instagram`
 
 ---
 
-## 🔰 Portfolio
+## 🔰 CV
 - https://docs.google.com/document/d/1bFV29u7COEo9mzoAMLKWbKo87WfZn4VpkRHE3SQ25FA `CV`
-- https://penza.hh.ru/applicant/resumes/view?resume=4f49e957ff05faa54c0039ed1f42525a674d33 `CV: Head Hunter`
-- https://career.habr.com/antoxa-sergeenkov `Хабр Карьера`
-
----
-
-## 🔰 Stack
-- [https://anton-sergeenkov.github.io/stack](https://anton-sergeenkov.github.io/stack) `All Technologies`
+- https://hh.ru/resume/4f49e957ff05faa54c0039ed1f42525a674d33 `CV: Head Hunter`
+- https://career.habr.com/antoxa-sergeenkov `Habr Career`
 
 ---
 
@@ -40,8 +42,6 @@
 
 ## 🔰 Projects
 
-
-
 ### Образовательный проект `Let's Code`
 - https://letscode-dev.github.io/ `Let's Code`
 - https://letscode-dev.github.io/training `Методичка по веб-разработке`
@@ -49,9 +49,8 @@
 - https://it-school58.github.io `Школа веб-разработки`
 
 ### Common
-- https://habr.com/ru/users/anton-sergeenkov/posts/ `Хабр Статьи`
-- https://anton-sergeenkov.github.io `Портфолио`
-- https://vk.com/workshop_panda `Веб-мастерская Panda`
+- https://habr.com/ru/users/anton-sergeenkov/posts/ `Habr Articles`
+- https://vk.com/workshop_panda `Web Studio "Panda"`
 
 ---
 
