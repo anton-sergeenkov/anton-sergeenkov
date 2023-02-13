@@ -7,7 +7,7 @@
 
 ## ⭐️ Main
 - https://anton-sergeenkov.github.io/ `Portfolio`
-- https://anton-sergeenkov.github.io/contacts `All Contacts
+- https://anton-sergeenkov.github.io/contacts `All Contacts`
 - https://anton-sergeenkov.github.io/stack `Technologies Stack`
 
 ---
