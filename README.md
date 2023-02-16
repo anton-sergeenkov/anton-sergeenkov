@@ -9,7 +9,7 @@
 - https://anton-sergeenkov.github.io/ `Portfolio and projects`
 - https://anton-sergeenkov.github.io/contacts `All Contacts`
 - https://anton-sergeenkov.github.io/stack `Technologies Stack`
-- https://docs.google.com/document/d/1bFV29u7COEo9mzoAMLKWbKo87WfZn4VpkRHE3SQ25FA `CV`
+- https://anton-sergeenkov.github.io/files/cv.pdf `CV`
 - https://letscode-dev.github.io/ `School of programming Let's Code`
 - https://habr.com/ru/users/anton-sergeenkov/posts/ `Habr Publications`
 
