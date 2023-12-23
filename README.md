@@ -9,9 +9,8 @@
 - https://letscode-dev.github.io/ School of programming Let's Code
 
 ## ⭐️ Contacts
-- https://www.linkedin.com/in/sergeenkov-anton `LinkedIn`
-- https://t.me/anton_sergeenkov `Telegram`
-- https://career.habr.com/antoxa-sergeenkov `Habr Career`
+- https://www.linkedin.com/in/sergeenkov-anton LinkedIn
+- https://t.me/anton_sergeenkov Telegram
 
 ## ⭐️ Actual Repo
 - https://github.com/letscode-dev/react-arrow-game Arrow Game (`React`, `Redux Toolkit`)
