@@ -4,7 +4,7 @@
 - ⭐️ Snowboarder / Longborder / Roller
 
 ## ⭐️ Links
-- https://anton-sergeenkov.github.io/files/cv.pdf CV
+- https://anton-sergeenkov.github.io/cv-en.pdf CV
 - https://anton-sergeenkov.github.io/ Portfolio and projects
 - https://letscode-dev.github.io/ School of programming Let's Code
 
