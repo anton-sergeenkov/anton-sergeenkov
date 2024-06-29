@@ -6,10 +6,10 @@
 
 ## Contacts and projects
 - [CV](https://anton-sergeenkov.github.io/cv-en.pdf)
-- [https://www.linkedin.com/in/sergeenkov-anton](LinkedIn)
-- [https://t.me/anton_sergeenkov](Telegram)
-- [https://anton-sergeenkov.github.io](Portfolio and projects)
-- [https://letscode-dev.github.io](School of Frontend Development Let's Code)
+- [LinkedIn](https://www.linkedin.com/in/sergeenkov-anton)
+- [Telegram](https://t.me/anton_sergeenkov)
+- [Portfolio and projects](https://anton-sergeenkov.github.io)
+- [School of Frontend Development Let's Code](https://letscode-dev.github.io)
 
 ## Actual repo
 
