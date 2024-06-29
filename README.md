@@ -14,7 +14,7 @@
 ## Actual repo
 
 #### Applications
-- [Arrow Game)](https://github.com/letscode-dev/react-arrow-game) `React` `Redux Toolkit` `TypeScript` ![image](https://img.shields.io/badge/new-yellow
+- [Arrow Game](https://github.com/letscode-dev/react-arrow-game) `React` `Redux Toolkit` `TypeScript` ![image](https://img.shields.io/badge/new-yellow)
 - [Star Wars](https://github.com/letscode-dev/react-star-wars) `React`
 - [Guitar Shop](https://github.com/letscode-dev/js-guitar-shop) `JavaScript`
 
