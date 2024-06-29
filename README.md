@@ -20,7 +20,7 @@
 
 #### Demo
 - [React Flow App](https://github.com/anton-sergeenkov/react-reactflow-app) `React` `TypeScript`  `React Flow` ![image](https://img.shields.io/badge/new-green)
-- [JavaScript Vanilla Router](https://github.com/anton-sergeenkov/js-vanilla-router)`JavaScript`
+- [JavaScript Vanilla Router](https://github.com/anton-sergeenkov/js-vanilla-router) `JavaScript`
 
 #### Websites
 - [Portfolio and projects](https://github.com/anton-sergeenkov/anton-sergeenkov.github.io) `React` `Next.js` ![image](https://img.shields.io/badge/new-green)
