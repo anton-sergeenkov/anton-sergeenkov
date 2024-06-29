@@ -1,5 +1,8 @@
-![image](https://img.shields.io/badge/new-red)
 
+![image](https://img.shields.io/badge/new-red)
+![image](https://img.shields.io/badge/new-blue)
+![image](https://img.shields.io/badge/new-yellowgreen)
+![image](https://img.shields.io/badge/new-orange)
 
 ## ⭐️ Info
 - 🔥 Frontend Developer
