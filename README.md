@@ -5,14 +5,14 @@
 - Interviewer
 - Writer
 
-## Contacts and Projects
+## Contacts and projects
 - https://anton-sergeenkov.github.io/cv-en.pdf CV
 - https://www.linkedin.com/in/sergeenkov-anton LinkedIn
 - https://t.me/anton_sergeenkov Telegram
 - https://anton-sergeenkov.github.io/ Portfolio and projects
 - https://letscode-dev.github.io/ School of Frontend Development Let's Code
 
-## Actual Repo
+## Actual repo
 
 #### Applications
 - https://github.com/letscode-dev/react-arrow-game Arrow Game `React` `Redux Toolkit` `TypeScript` ![image](https://img.shields.io/badge/new-red)
