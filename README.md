@@ -1,4 +1,5 @@
-https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+![image]({https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white})
+
 
 ## ⭐️ Info
 - 🔥 Frontend Developer
