@@ -11,7 +11,7 @@
 - [Portfolio and projects](https://anton-sergeenkov.github.io)
 - [School of Frontend Development Let's Code](https://letscode-dev.github.io)
 
-## Actual repo
+## Actual repositories
 
 #### Applications
 - [Arrow Game](https://github.com/letscode-dev/react-arrow-game) `React` `Redux Toolkit` `TypeScript` ![image](https://img.shields.io/badge/new-green)
