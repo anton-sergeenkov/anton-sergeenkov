@@ -1,4 +1,4 @@
-
+![image](https://img.shields.io/badge/new-red)
 
 
 ## ⭐️ Info
@@ -23,7 +23,10 @@
 - https://github.com/letscode-dev/js-guitar-shop Guitar Shop `JavaScript`
 
 ### Demo
-- https://github.com/anton-sergeenkov/react-reactflow-app React Flow App `React` `TypeScript`  `React Flow` ![image](https://img.shields.io/badge/new-red)
+- https://github.com/anton-sergeenkov/react-reactflow-app React Flow App `React` `TypeScript`  `React Flow` ![image](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
+
+
+
 - https://github.com/anton-sergeenkov/js-vanilla-router JavaScript Vanilla Router `JavaScript`
 
 ### Websites
