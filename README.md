@@ -1,8 +1,9 @@
 
 ## ⭐️ Info
-- 🔥 Frontend Developer
-- 🔥 Frontend Development Mentor
-- ⭐️ Snowboarder / Longborder / Roller
+- Senior Frontend Developer
+- Frontend Development Mentor
+- Interviewer
+- Writer
 
 ## ⭐️ Links
 - https://anton-sergeenkov.github.io/cv-en.pdf CV
