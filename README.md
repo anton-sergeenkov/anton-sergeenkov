@@ -5,7 +5,7 @@
 - Writer
 
 ## Contacts and projects
-- https://anton-sergeenkov.github.io/cv-en.pdf CV
+- [https://anton-sergeenkov.github.io/cv-en.pdf](CV)
 - https://www.linkedin.com/in/sergeenkov-anton LinkedIn
 - https://t.me/anton_sergeenkov Telegram
 - https://anton-sergeenkov.github.io Portfolio and projects
