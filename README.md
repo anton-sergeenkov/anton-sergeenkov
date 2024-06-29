@@ -1,3 +1,8 @@
+![image](https://img.shields.io/badge/new-yellow)
+![image](https://img.shields.io/badge/new-green)
+![image](https://img.shields.io/badge/new-violet)
+![image](https://img.shields.io/badge/new-orange)
+![image](https://img.shields.io/badge/new-blue)
 
 ## Info
 - Senior Frontend Developer
