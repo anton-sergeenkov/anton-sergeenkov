@@ -15,11 +15,9 @@
 
 #### Applications
 - [Arrow Game](https://github.com/letscode-dev/react-arrow-game) `React` `Redux Toolkit` `TypeScript` ![image](https://img.shields.io/badge/new-green)
+- [React Flow App](https://github.com/anton-sergeenkov/react-reactflow-app) `React` `TypeScript`  `React Flow` ![image](https://img.shields.io/badge/new-green)
 - [Star Wars](https://github.com/letscode-dev/react-star-wars) `React`
 - [Guitar Shop](https://github.com/letscode-dev/js-guitar-shop) `JavaScript`
-
-#### Demo
-- [React Flow App](https://github.com/anton-sergeenkov/react-reactflow-app) `React` `TypeScript`  `React Flow` ![image](https://img.shields.io/badge/new-green)
 - [JavaScript Vanilla Router](https://github.com/anton-sergeenkov/js-vanilla-router) `JavaScript`
 
 #### Websites
