@@ -25,5 +25,5 @@
 - [School of Frontend Development Let's Code](https://github.com/letscode-dev/letscode-dev.github.io) `React` `Next.js` ![image](https://img.shields.io/badge/new-green)
 
 #### Ui-Kit
-- [React Ui-Kit](https://github.com/anton-sergeenkov/-sawyer-react-lib-) `React` `Next.js` ![image](https://img.shields.io/badge/new-green)
+- [React Ui-Kit](https://github.com/anton-sergeenkov/sawyer-ui) `React` `Next.js` ![image](https://img.shields.io/badge/new-green)
 - [Vue Ui-Kit](https://github.com/anton-sergeenkov/vue-uikit) `Vue.js`
