@@ -2,7 +2,7 @@
 - Senior Frontend Developer
 - Frontend Development Mentor
 - Interviewer
-- Writer
+- Technical Writer
 
 ## Contacts and projects
 - [CV](https://anton-sergeenkov.github.io/cv-en.pdf)
